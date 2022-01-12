@@ -3,7 +3,7 @@
   <div align="justify">
     <strong>
       My name is Abijah and I'm a Full-Stack Developer from Minnesota, currently living in Roseville.
-      I am eager to learn new things, and experience different kinds of technologies inside and out of the Web Development space.👨‍💻
+      I am eager to learn new things, and experience different kinds of technologies inside and out of the Web Development space.
     </strong>
   </div>
 
