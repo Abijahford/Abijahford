@@ -87,10 +87,10 @@
   
   # 📈 Stats
    <img
-   src="https://github-readme-stats.vercel.app/api?username=Abijahford&show_icons=true&theme=radical"
+   src="https://github-readme-stats.vercel.app/api?username=Abijahford&show_icons=true&theme=nord"
   /></br>
   <img 
-   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abijahford&theme=radical&layout=compact"
+   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abijahford&theme=nord&layout=compact"
   />
 
 <!---
