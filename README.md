@@ -90,7 +90,7 @@
    src="https://github-readme-stats.vercel.app/api?username=Abijahford&show_icons=true&theme=nord"
   /></br>
   <img 
-   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abijahford&theme=nord&layout=compact"
+   src="https://github-readme-streak-stats.herokuapp.com/?user=Abijahford&&theme=nord&&hide_border=true"
   />
 
 <!---
