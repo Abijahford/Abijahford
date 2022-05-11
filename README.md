@@ -43,9 +43,9 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg"
         width="48"
         height="48"
-        alt="Jest"
+        alt="Jquery"
       />
-      <br /><strong>Jest</strong>
+      <br /><strong>jQuery</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
